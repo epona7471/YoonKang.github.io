@@ -6,6 +6,13 @@
 코딩 내부의 디렉토리는 제가 쓰는 구글 드라이브 기준으로 작성되어있으니, 용도 것 변경 부탁드립니다.
 (코랩 기준으로 작성된 requirements로 pip 설치시 시간에 좀 오래 걸릴 수 있습니다.)
 
+0. imdb movies.csv 데이터
+   - https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+   - 
+0-1. Glove word embedding corpus
+   - 파일이름 : glove.6B.100d
+   - https://nlp.stanford.edu/projects/glove/
+
 1. 딥러닝 포델 파라미터 
   - 파일이름 : multi_input.h5
   - 다운로드 링크 : https://drive.google.com/file/d/1lQO4XZCry1jLg5_A4Wa8GjkyqiGNfrSl/view?usp=sharing
