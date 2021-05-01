@@ -1,3 +1,6 @@
+2021/05/01 : 오타수정(딥러닝 포델 -> 딥러닝 모델)
+             모델관련 reference 링크 첨부
+
 안녕하세요. section4 deep learning 프로젝트 폴더입니다.
 
 이번 과제는 multi-input 딥러닝 아키텍처를 사용하였으며, 
@@ -24,3 +27,8 @@
 3. poster image 파일 주소
   - https://drive.google.com/drive/folders/1ragJ5lClLNOoibXZBC4lNJ-i8eSM3nir?usp=sharing
     (파일이 한 24000개 정도 있으니 조심해서 접근부탁드립니다.)
+    
+-Multi input model 및 LSTM 관련 reference 링크
+
+1. https://towardsdatascience.com/deep-multi-input-models-transfer-learning-for-image-and-word-tag-recognition-7ae0462253dc
+2. https://stackabuse.com/python-for-nlp-movie-sentiment-analysis-using-deep-learning-in-keras/
