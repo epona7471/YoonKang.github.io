@@ -16,7 +16,7 @@
    - 파일이름 : glove.6B.100d
    - https://nlp.stanford.edu/projects/glove/
 
-1. 딥러닝 포델 파라미터 
+1. 딥러닝 모델 파라미터 
   - 파일이름 : multi_input.h5
   - 다운로드 링크 : https://drive.google.com/file/d/1lQO4XZCry1jLg5_A4Wa8GjkyqiGNfrSl/view?usp=sharing
 2. X_train_images, X_test_images 파일(구글드라이브에 저장된 4000개의 포스터 이미지를 리사이즈해서 저장한 data입니다.)
