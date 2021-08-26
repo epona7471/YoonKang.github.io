@@ -28,6 +28,9 @@
   - https://drive.google.com/drive/folders/1ragJ5lClLNOoibXZBC4lNJ-i8eSM3nir?usp=sharing
     (파일이 한 24000개 정도 있으니 조심해서 접근부탁드립니다.)
     
+![image](https://user-images.githubusercontent.com/13134929/131007467-6f7895bb-eca5-4335-9fea-c2206f2a7d70.png)
+
+    
 -Multi input model 및 LSTM 관련 reference 링크
 
 1. https://towardsdatascience.com/deep-multi-input-models-transfer-learning-for-image-and-word-tag-recognition-7ae0462253dc
